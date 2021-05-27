@@ -1,0 +1,12 @@
+{
+  "name": "appdetox",
+  "displayName": "appdetox",
+  "expo": {
+    "name": "appdetox",
+    "slug": "appdetox",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
